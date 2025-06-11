@@ -1,0 +1,4 @@
+Esta pasta contém a base de dados utilizada para a realização do projeto, obtida do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), referente ao Indicador de Nível Socioeconômico dos Estudantes – INSE 2021.
+Os dados foram filtrados para incluir apenas escolas públicas urbanas nos municípios do estado do Paraná.
+
+Fonte oficial: INEP - Indicadores Educacionais - INSE 2021

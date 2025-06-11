@@ -1,0 +1,6 @@
+Nesta pasta estão os principais gráficos gerados durante o projeto, que foram utilizados na apresentação final. 
+Eles ilustram de forma visual os padrões socioeconômicos detectados nos municípios paranaenses:
+
+Boxplot: Representa a variabilidade e distribuição percentual dos estudantes por nível socioeconômico em todo o Brasil.
+
+Dendrograma: Resultado do agrupamento hierárquico dos municípios do Paraná, evidenciando grupos com perfis similares.

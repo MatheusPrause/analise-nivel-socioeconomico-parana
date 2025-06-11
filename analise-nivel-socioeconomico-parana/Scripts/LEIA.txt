@@ -1,0 +1,12 @@
+Contém o código-fonte em R utilizado para a análise estatística e multivariada dos dados.
+Entre as técnicas aplicadas estão:
+
+Estatísticas descritivas (média e desvio padrão);
+
+Análise de Componentes Principais (PCA);
+
+Agrupamento hierárquico (dendrograma);
+
+Geração de gráficos de apoio à análise.
+
+O script está comentado e organizado por etapas para facilitar a reprodução da análise.
