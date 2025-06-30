@@ -99,7 +99,7 @@ README.md # This file
 ---
 
 ### 📜 Certificate
-📌 The ECCI 2025 participation certificate will be uploaded soon.
+https://www2.fag.edu.br/coopex/certificado/gerado/94381
 
 ---
 
