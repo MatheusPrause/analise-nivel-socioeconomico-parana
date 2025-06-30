@@ -46,7 +46,7 @@ README.md # Este arquivo
 ---
 
 ### 📜 Certificado
-📌 Em breve, o certificado de participação no ECCI 2025 será adicionado neste repositório.
+Link para o certificado: https://www2.fag.edu.br/coopex/certificado/gerado/94381
 
 ---
 
